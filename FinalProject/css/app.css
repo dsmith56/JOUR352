@@ -1,0 +1,36 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.banner {
+  background-color: #975aa1;
+  text-align: center;
+  color: white;
+  font-family: 'Bebas Neue', sans-serif;
+}
+.headline{
+  font-family: 'PT Serif', serif;
+  border-bottom-style: solid;
+  border-top-style: solid;
+
+}
+p{
+  font-family: 'EB Garamond', serif;
+}
+.relatedreading{
+   font-family: 'PT Serif', serif;
+   font-size: 14pt;
+}
+h2{
+   font-family: 'PT Serif', serif;
+   font-size: 14pt;
+}
+.copyright{
+   font-family: 'EB Garamond', serif;
+   font-size:8pt;
+   border-top-style: solid;
+   border-bottom-style: solid;
+   text-align: center;
+}
